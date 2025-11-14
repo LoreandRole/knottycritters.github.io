@@ -1,1 +1,1 @@
-https://knottycritters.github.io/app-ads.txt
+https://knottycritters/app-ads.txt
